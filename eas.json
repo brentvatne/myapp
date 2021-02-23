@@ -1,13 +1,20 @@
 {
   "builds": {
     "android": {
-      "release": {
+      "production": {
         "workflow": "generic"
       }
     },
     "ios": {
-      "release": {
-        "workflow": "generic"
+      "production": {
+        "workflow": "generic",
+        "distribution": "simulator",
+        "scheme": "myapp"
+      },
+      "staging": {
+        "workflow": "generic",
+        "scheme": "myapp-staging",
+        "distribution": "simulator"
       }
     }
   }
