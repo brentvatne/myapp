@@ -5,7 +5,7 @@
     <key>EXUpdatesSDKVersion</key>
     <string>40.0.0</string>
     <key>EXUpdatesURL</key>
-    <string>https://exp.host/@notbrent/myapp</string>
+    <string>https://exp.host/@notbrent/myapp-production</string>
     <key>EXUpdatesEnabled</key>
     <true/>
     <key>EXUpdatesCheckOnLaunch</key>
