@@ -1,12 +1,5 @@
 {
-  "name": "myapp",
-  "displayName": "myapp",
   "expo": {
-    "name": "myapp",
-    "slug": "myapp",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "version": "1.1.1"
   }
 }
